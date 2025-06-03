@@ -5,8 +5,8 @@ use UCloud\Core\Exception\UCloudException;
 use UCloud\Core\Request\Request;
 
 $client = new Client([
-    "publicKey" => getenv("UCLOUD_PUBLIC_KEY"),
-    "privateKey" => getenv("UCLOUD_PRIVATE_KEY"),
+    "publicKey" => "public_key",
+    "privateKey" => "private_key",
     "region" => "cn-wlcb",
     "baseUrl" => "https://api.compshare.cn"
 ]);

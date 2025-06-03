@@ -13,8 +13,8 @@ async function main() {
             maxRetries: 3
         },
         credential: {
-            publicKey: process.env.UCLOUD_PUBLIC_KEY || '',
-            privateKey: process.env.UCLOUD_PRIVATE_KEY || '',
+            publicKey: 'public_key',
+            privateKey: 'private_key',
         }
     });
 
