@@ -33,6 +33,14 @@ Before running any examples, you'll need:
 2. **API Credentials**: Get your `public_key` and `private_key` from [API Management](https://console.compshare.cn/uaccount/api_manage)
 3. **Programming Environment**: Choose your preferred language and set up the development environment
 
+### API Configuration
+
+All examples require your CompShare API credentials:
+- `public_key` and `private_key` from [API Management](https://console.compshare.cn/uaccount/api_manage)
+- Region: `cn-wlcb` (standard)
+- Zone: `cn-wlcb-01` (standard)
+- Base URL: `https://api.compshare.cn` (standard)
+
 ## Documentation
 
 - 📚 [CompShare API Documentation](https://www.compshare.cn/docs)
@@ -50,3 +58,4 @@ If you encounter issues:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve these examples.
+
