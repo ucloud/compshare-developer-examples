@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ucloud/ucloud-sdk-php": "^0.1.0"
+    }
+}

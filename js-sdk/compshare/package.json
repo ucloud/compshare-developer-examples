@@ -1,0 +1,12 @@
+{
+  "name": "compshare-js-sdk-example",
+  "version": "1.0.0",
+  "description": "CompShare JavaScript SDK Example",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@ucloud-sdks/ucloud-sdk-js": "^0.2.3"
+  }
+} 
